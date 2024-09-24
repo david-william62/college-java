@@ -1,0 +1,3 @@
+Hello this is a test file
+that is used in a java program
+that counts no of words in a file
