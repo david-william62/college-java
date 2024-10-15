@@ -13,7 +13,7 @@ class shape {
 
  void area(int a) {
   double res = a * a;
-  System.out.println("Area of circle: "+res);
+  System.out.println("Area of square: "+res);
  }
 
  void area(double b , double h) {
